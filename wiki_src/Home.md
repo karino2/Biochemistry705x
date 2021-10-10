@@ -1,29 +1,25 @@
 edXのBiochemistryのコース。
-[Biochemistry: Biomolecules, Methods, and Mechanisms](ttps://www.edx.org/course/biochemistry-biomolecules-methods-and-mechanisms-course-v1mitx705x3t2021)の講義ノート。
+[Biochemistry: Biomolecules, Methods, and Mechanisms](https://www.edx.org/course/biochemistry-biomolecules-methods-and-mechanisms-course-v1mitx705x3t2021)の講義ノート。
 
 - [BiochemistryのPngNote](https://karino2.github.io/ImageGallery/Biochemistry705x.html)
 
+
 ## pHとバッファ
 
-単語
+[[pHとバッファ]]
 
-- acetic acid 酢酸
-- citric acid クエン酸
-- reactant 反応物、生成物の反対（元の方）
-- potassium カリウム、Kの事（毎回忘れる）
-- stringy ネバネバする、糸をひく
-- viscous 粘性のある
+### ここまでの雑感
 
-### Acid-Base
+1シーケンスが700xよりも長くて、とても一日では終わらない気がする。
+pH計算の問題は一問一問はどうという事が無くてもこれだけやるのは大変。
 
-Bronsted-Lowryの定義
+全体的にUnit数も少ないし、1シーケンス1週間くらいのペースでやるものなのかもしれない。
+実際トップのページにも3-6 hours/weekで11 weeks予定となっている。1シーケンス1週間で少し遅い程度の進行度に思う。
 
-- AcidはH+のドナー
-- BaseはH+のアクセプター
+## アミノ酸とタンパク質
 
-Lewisの定義
+- alkene アルケン、炭素二重結合をいくつか持つ不飽和化合物の総称
+- primordial 原初の、根源的な
+- abdomen 腹部
 
-- Acidはe-  pairのアクセプター
-- Baseはe- pairのドナー
-
-Mというのは mol/l を表す単位らしい。[モル濃度 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E6%BF%83%E5%BA%A6)
+最後のアミノ酸が発見されたのが1936年！凄い最近で驚くよなぁ。
