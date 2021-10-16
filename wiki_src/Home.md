@@ -82,3 +82,30 @@ Serがprimary alcoholだ、という話をしている。primary alcoholって�
 OH基のついている炭素に余計なものがついてない、って事かね。
 
 Cysteineのジスフィルド結合をCystineと呼ぶらしい。
+
+## バッファとアミノ酸、Problem Set
+
+dueを過ぎててsubmit出来ない。due厳しいなぁ。もともと卒業証がもらえる訳でも無いので自己採点出来れば十分で、Show answerは動いているので自己採点してやっていく。
+
+- parietal 体腔壁の
+
+## レゾナンスとかπ結合とかをググる
+
+レゾナンスってちょくちょく出てくるがあんま詳しくないのでなんか動画無いかな〜とググって、以下のシリーズを見つける。
+
+[有機化学（有機分子の性質,構造） - YouTube](https://www.youtube.com/playlist?list=PLohkf6eG6t1B3_ls2R2jVib0LlNXIUARv)
+
+なかなか良さそう。暇な時に見るかな。
+
+シグマ結合とパイ結合のあたりを忘れたので復習。
+
+[混成軌道【sp3混成軌道, sp2混成軌道, sp混成軌道の違い】 : 化学のススメ](https://chemblogno1.blogspot.com/2019/10/sp-sp3-sp2-sp3.html)
+
+sp3混成軌道で作られる共有結合がシグマ結合、あぶれたp軌道同士で出来るのがパイ結合か。なんかこんなのあったな。
+
+レゾナンスでググって以下のカーン・アカデミーの動画を見る。
+
+- [Resonance - YouTube](https://www.youtube.com/watch?v=6XOm3Km7r30) カーン・アカデミーのベンゼンとかの話
+- [Resonance structure patterns - Resonance and acid-base chemistry - Khan Academy - YouTube](https://www.youtube.com/watch?v=UHZHkZ6_H5o)
+
+だいたい理解した。
