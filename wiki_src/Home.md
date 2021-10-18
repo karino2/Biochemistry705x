@@ -89,7 +89,16 @@ dueを過ぎててsubmit出来ない。due厳しいなぁ。もともと卒業�
 
 - parietal 体腔壁の
 
-## レゾナンスとかπ結合とかをググる
+ペプチド結合の数を数える問題、なんか側鎖のカルボキシル基（Gultamateの奴）とNH2のアミド結合もカウントしている気がするんだが、
+ペプチド結合は主鎖の奴だけを呼ぶのでは無いのかね？
+
+[Isopeptide bond - Wikipedia](https://en.wikipedia.org/wiki/Isopeptide_bond)
+
+イソペプチド結合と言うらしい。これをペプチド結合と区別する場合としない場合があるようで、
+区別を明示したい時はペプチド結合の方を eupeptide bondと呼ぶとか。
+そう言ってないのでこういう場合はイソペプチド結合も含むと解釈すべきか。
+
+### レゾナンスとかπ結合とかをググる
 
 レゾナンスってちょくちょく出てくるがあんま詳しくないのでなんか動画無いかな〜とググって、以下のシリーズを見つける。
 
@@ -109,3 +118,8 @@ sp3混成軌道で作られる共有結合がシグマ結合、あぶれたp軌�
 - [Resonance structure patterns - Resonance and acid-base chemistry - Khan Academy - YouTube](https://www.youtube.com/watch?v=UHZHkZ6_H5o)
 
 だいたい理解した。
+
+### PyMOL
+
+PyMOLのチュートリアルみたいな課題があったので、やってみる。
+拡大とかのオペレーションは700xのwebアプリよりもだいぶ完成度が高いね。
