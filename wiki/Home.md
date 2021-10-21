@@ -88,6 +88,7 @@ NaClはタンパク質に影響が強いので良くない。
 
 この後は３つのChromatographyのどれかで分離する。
 
-- Size Exclusion Chromatography
+- Size Exclusion Chromatography (gel-filtrationとも呼ばれる）
 - Ion Exclusion Chromatography
 - Affinity Chromatography
+
