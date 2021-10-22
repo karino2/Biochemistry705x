@@ -86,9 +86,105 @@ NaClはタンパク質に影響が強いので良くない。
 
 半透膜に入れたペレットにBufferを注ぐと、(NH4)2SO4だけが膜から出ていく。
 
-この後は３つのChromatographyのどれかで分離する。
+### クロマトグラフィー
+
+- cellulase セルラーゼ、セルロースを加水分解する酵素
+- elution カラムのビーズからタンパク質を分離するプロセス
+- cell culture 細胞培養
+
+透析の後は３つのChromatographyのどれかで分離する。
 
 - Size Exclusion Chromatography (gel-filtrationとも呼ばれる）
-- Ion Exclusion Chromatography
+- Ion Exchange Chromatography
 - Affinity Chromatography
 
+ビーズの入ったカラムを通して分離する。
+
+Affinity Chromatographyは、目的のタンパク質のligandを持つビーズを使って分離する手法。
+以下の２つの条件が必要。
+
+1. 目的のタンパク質のリガンドを知っている
+2. そのリガンドのくっついたビーズが作れる
+
+**例：グルコースにくっつくタンパク質を分離したい場合**
+
+1. グルコースのいっぱいくっついたビーズのカラムを作りタンパク質群を通す
+2. ビーズに目的のタンパク質がくっついて他が流れた後に、グルコース溶液を入れて目的のタンパク質を分離する（elution）
+
+**例：トランスクリプションファクターを分離したい場合**
+
+対応するDNAシーケンスを持ったビーズを使う。elutionではDNAを加える。
+
+**例：リガンドを作る（タグ）**
+
+His-TAG：目的のタンパク質からDNA配列を取り出し、その後ろにHistidinが連なるようにコドンを追加する。Histidinはニッケルやコバルトと高いAffinityを持つので、それらのビーズのカラムを使えば良い。ElutionにはHistidinを使うか、その側鎖のImidazoleを加えれば良い。
+
+GST-TAG：Gultathione S-transferaseタグ。26000ダルトン。これがgultathioneにくっつくので、gultathioneのカラムを作って分離する。
+
+## Specific Activityを測る
+
+この動画は少しわかりにくいが、以下のように理解した。
+
+タンパク質をpurifyする時に、何か目的のActivityがある場合。
+
+```
+Activityの総量/タンパク質の総量
+```
+
+をSpecific Activityを呼ぶらしい。
+Specific Activityを知る為には、当然以下の２つを知っている必要がある
+
+- 対象となる特定のActivity  
+   タンパク質の機能。たとえば制限酵素（EcoRI)など。
+- タンパク質の総量
+
+この２つが分かれば、 `Activityの量/タンパク質の量` を計算出来る。
+
+Activityの量はまさに目的のActivityなので目的による。例えばEcoRIならDNAをカットするとか。
+これが何らかのUnitで測れるとする。
+
+すると次に必要なのは「タンパク質の量」を知る方法。
+その為には濃度を知る必要がある。
+
+濃度を計測する方法は、例えば280nmとか276nmの波長の光の吸収を測る（TyrかTrp）というのがあった。
+
+```
+A = εcl
+```
+
+ここでεはタンパク質内のTrpとTyrの個数の和の何らかの関数。
+
+ただpurificationしていく時にSpecific Activityに着目してpurifyの度合いを知りたいと思えば、
+いろいろなものが混ざっている時にも使える濃度推定法があって欲しい。上記の方法はDNAとかいろいろ余計なものが混ざっている混合液に対してはあまり良い方法とは言えない。
+
+そこでDye binding assayで測るという方法がある。
+
+### Colorimetric Assay
+
+reagentがタンパク質に結合した時に起こる色の変化を測ることでタンパク質の濃度を測る手法。
+何故か動画じゃなくてテキストの資料ののみ（なんで！？）。
+
+**Bradford assay:**
+
+- Reagent: Coomassie Brilliant Blue G-250 (Coomassie)
+- 酸性化では以下の３つの力で結合しうる
+   - カティオン（Lys, His, Arg）の場合、硫黄の官能基とイオン結合
+   - 芳香族（Tyr, Phe, Trp）の場合、ファンデルワールス力
+  - Hydrophobic forces
+
+Coomassieはタンパク質と結合すると、465nm(red/brown)が最大吸光だったのが、595nm（blue/purple）に変化する。
+そこで595nmの吸光を測ることで、Coomassie-タンパク質 結合体の量が測れる。
+
+**BCA assay:**
+
+- Reagent: Cu2+ とビシンコニン酸(Bicinchoninic acid)
+  - Step 1: タンパク質とCu2+が反応して、Cu+と酸化したタンパク質に
+  - Step 2: 2BCAとCu+が反応してBCA-copper-complexを形作る、これは562nmを強く吸収する
+
+Step 1はアミノ基との反応でbiuret反応として知られる。Cys, Tyr, Trpの側鎖もこの還元作用があるのでタンパク質の種類による違いがある。
+
+562nmの吸光を測る事でBCA-copper complexの量を測る。
+
+### Specific Activityの計測とpurificationの度合い
+
+PngNoteの方に表を書いたのでそちらを参照。＞[BiochemistryのPngNote、16ページ](https://karino2.github.io/ImageGallery/Biochemistry705x.html)
