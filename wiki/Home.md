@@ -123,7 +123,7 @@ GST-TAG：Gultathione S-transferaseタグ。26000ダルトン。これがgultath
 
 ## Specific Activityを測る
 
-この動画は少しわかりにくいが、以下のように理解した。
+この動画は少しわかりにくいが、以下のように理解した。（この後にあったSpecific Activity Animationは凄く良く構成されているので先にこれを見るべきだった、というか先に置いておいてよ…）
 
 タンパク質をpurifyする時に、何か目的のActivityがある場合。
 
@@ -187,4 +187,11 @@ Step 1はアミノ基との反応でbiuret反応として知られる。Cys, Tyr
 
 ### Specific Activityの計測とpurificationの度合い
 
-PngNoteの方に表を書いたのでそちらを参照。＞[BiochemistryのPngNote、16ページ](https://karino2.github.io/ImageGallery/Biochemistry705x.html)
+- aliquot 試料（検査のために抽出したもの）
+
+PngNoteの方に表を書いたのでそちらを参照。＞[BiochemistryのPngNote、16ページ](https://karino2.github.io/ImageGallery/media/original/Biochemistry705x/0015.png)
+
+## SDS-PAGE
+
+電気泳動の亜種。タンパク質をまっすぐにしてアミノ酸数に応じた電荷を付与して電気泳動する事で、molecular weightで分離する。
+＞[BiochemistryのPngNote](https://karino2.github.io/ImageGallery/Biochemistry705x.html)の17〜19ページまで。
