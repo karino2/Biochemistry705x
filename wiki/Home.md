@@ -189,9 +189,9 @@ Step 1はアミノ基との反応でbiuret反応として知られる。Cys, Tyr
 
 - aliquot 試料（検査のために抽出したもの）
 
-PngNoteの方に表を書いたのでそちらを参照。＞[BiochemistryのPngNote、16ページ](https://karino2.github.io/ImageGallery/media/original/Biochemistry705x/0015.png)
+PngNoteの方に表を書いたのでそちらを参照。＞[BiochemistryのPngNote、16ページ](https://karino2.github.io/ImageGallery/Biochemistry705x.html#lg=1&slide=15)
 
 ## SDS-PAGE
 
 電気泳動の亜種。タンパク質をまっすぐにしてアミノ酸数に応じた電荷を付与して電気泳動する事で、molecular weightで分離する。
-＞[BiochemistryのPngNote](https://karino2.github.io/ImageGallery/Biochemistry705x.html)の17〜19ページまで。
+＞[BiochemistryのPngNote 18ページ](https://karino2.github.io/ImageGallery/Biochemistry705x.html#lg=1&slide=17) 18〜20ページがSDS-PAGE
