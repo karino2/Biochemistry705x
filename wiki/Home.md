@@ -95,7 +95,7 @@ NaClはタンパク質に影響が強いので良くない。
 透析の後は３つのChromatographyのどれかで分離する。
 
 - Size Exclusion Chromatography (gel-filtrationとも呼ばれる）
-- Ion Exchange Chromatography
+- Ion Exchange Chromatography [PngNote、15ページ](https://karino2.github.io/ImageGallery/Biochemistry705x.html#lg=1&slide=14)
 - Affinity Chromatography
 
 ビーズの入ったカラムを通して分離する。
@@ -189,9 +189,23 @@ Step 1はアミノ基との反応でbiuret反応として知られる。Cys, Tyr
 
 - aliquot 試料（検査のために抽出したもの）
 
-PngNoteの方に表を書いたのでそちらを参照。＞[BiochemistryのPngNote、16ページ](https://karino2.github.io/ImageGallery/Biochemistry705x.html#lg=1&slide=15)
+PngNoteの方に表を書いたのでそちらを参照。＞[PngNote、16ページ](https://karino2.github.io/ImageGallery/Biochemistry705x.html#lg=1&slide=15)
 
-## SDS-PAGE
+### ３つの電気泳動
+
+**SDS-PAGE**
 
 電気泳動の亜種。タンパク質をまっすぐにしてアミノ酸数に応じた電荷を付与して電気泳動する事で、molecular weightで分離する。
-＞[BiochemistryのPngNote 18ページ](https://karino2.github.io/ImageGallery/Biochemistry705x.html#lg=1&slide=17) 18〜20ページがSDS-PAGE
+＞[PngNote 18ページ](https://karino2.github.io/ImageGallery/Biochemistry705x.html#lg=1&slide=17) 18〜20ページがSDS-PAGE
+
+**IEF**
+
+pHの違いで電荷が変わるのを利用して分離、pIがタンパク質ごとに違う事を利用。
+
+[PngNote 21ページ](https://karino2.github.io/ImageGallery/Biochemistry705x.html#lg=1&slide=20)
+
+**2D-ゲル電気泳動**
+
+IEFしてからSDS-PAGEする事でmolecular weightとpIの両方で分離。
+
+[PngNote 22ページ](https://karino2.github.io/ImageGallery/Biochemistry705x.html#lg=1&slide=21)
