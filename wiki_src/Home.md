@@ -209,3 +209,35 @@ pHの違いで電荷が変わるのを利用して分離、pIがタンパク質�
 IEFしてからSDS-PAGEする事でmolecular weightとpIの両方で分離。
 
 [PngNote 22ページ](https://karino2.github.io/ImageGallery/Biochemistry705x.html#lg=1&slide=21)
+
+### GFP purification
+
+GFP（クラゲからとる蛍光塗料、ベータバレルのタンパク質の奴）のpurificationの例。
+この動画、なんか700xの方でも見た奴な気がするな。まぁいい。見ておこう。
+
+high salt bufferで疎水部が外に出てきて疎水結合でビーズに残り、
+low salt bufferを加えると親水部が外に出てきてビーズから離れる（elution）。
+
+high saltとlow saltと疎水基の関係はいまいち良くわからないな。なんでだろう？
+
+そうか、high saltの時はわからないが、low saltの時に疎水基が中に入るのは、水から離れるの定義から明らかか。
+
+[blog: MITx 7.00x Introduction to Biology - The Secret of Lifeの受講記録](https://karino2.github.io/2021/07/19/the_secret_of_life.html)の　「Protein Purification - GFP」の所に当時の理解が書いてあるな。
+
+### Beta-galactosidase
+
+これも700xでやった動画だね。ただ理解は深まっている。
+
+ligandを使ったaffinity chromatography。ligandが何なのかは知らんが、なんかあるのだろう。
+
+elutionは高pHを使うらしい。これでligandとの非共有結合がはずれるとか。
+
+Activityの検出にはO-ニトロフェニル-ベータd-galactosidase、略称ONPGを使うとか。
+Beta-galactosidaseがあるとONPが生まれて、これはアルカリ性だと黄色になるとか。
+アルカリ性にするにはsodium carbonateを使うらしい(Na2CO3か)。
+
+どれだけ黄色かを測るには、cuvetteと言われるプラスチックのコンテナに入れてspectrophotometerと呼ばれる機械で測るとか。前もやったな、これ。
+
+### Problem Set
+
+Size-Exclusion Chromatographyは、ビーズの孔を通る、小さいMwのタンパク質の方が長く時間がかかるのか。
