@@ -69,3 +69,7 @@ Hydrophobic forceは、水分子の水素結合によるエントロピーが、
 ## 何故Foldingの予想は難しいのか？（エネルギーの視点から）
 
 [PngNote 27ページ](https://karino2.github.io/ImageGallery/Biochemistry705x.html#lg=1&slide=26)
+
+## Problem Set
+
+- oligomerize 多量体化する（オリゴマーは比較的少数のモノマーが多量体化したもの）
