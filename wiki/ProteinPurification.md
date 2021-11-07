@@ -178,6 +178,8 @@ PngNoteの方に表を書いたのでそちらを参照。＞[PngNote、16ペー
 電気泳動の亜種。タンパク質をまっすぐにしてアミノ酸数に応じた電荷を付与して電気泳動する事で、molecular weightで分離する。
 ＞[PngNote 18ページ](https://karino2.github.io/ImageGallery/Biochemistry705x.html#lg=1&slide=17) 18〜20ページがSDS-PAGE
 
+ジスルフィド結合をバラす為にreducing agentsとしてβ-mercaptoethanolを加える。
+
 **IEF**
 
 pHの違いで電荷が変わるのを利用して分離、pIがタンパク質ごとに違う事を利用。
