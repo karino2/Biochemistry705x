@@ -23,5 +23,10 @@ pH計算の問題は一問一問はどうという事が無くてもこれだけ
 # Unit: Protein Structure and Folding
 
 - [[タンパク質の構造]]
+  - [[タンパク質の一次構造の決定]]
+  - [[タンパク質の二次構造]]
 - [[タンパク質のfolding]]
 
+# Unit: Hemoglobin
+
+- [[ヘモグロビンとAllostery]]
