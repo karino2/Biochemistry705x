@@ -12,6 +12,8 @@ Y/(1-Y)を対数でプロットして求める。これをHIll Plotと呼ぶ。�
 
 [PngNote 30ページ](https://karino2.github.io/ImageGallery/Biochemistry705x.html#lg=1&slide=29)
 
+nが大きいほどCooperativityは大きい。
+
 ## Bohr Effect
 
 pO2とYのプロット（Hbだとシグモイド型になる奴）が、pHの変化や温度の変化でシフトする現象。
@@ -66,3 +68,7 @@ R-stateでは穴が小さすぎて2,3-BPGが入れないのでこの安定化は
 2,3-BPGはred cellで合成される。
 
 高地など酸素の低い所に行くと2,3-BPGの合成量が増えて特性カーブが右にシフトして組織への酸素の供給を助ける。
+
+### Problem Set
+
+- erythrocytosis 赤血球増加症
