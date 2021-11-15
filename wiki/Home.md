@@ -30,3 +30,4 @@ pH計算の問題は一問一問はどうという事が無くてもこれだけ
 # Unit: Hemoglobin
 
 - [ヘモグロビンとAllostery](ヘモグロビンとAllostery.md)
+- [ヘモグロビンとBohrEffect](ヘモグロビンとBohrEffect.md)
