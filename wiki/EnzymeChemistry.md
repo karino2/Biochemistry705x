@@ -5,6 +5,7 @@ SubstrateからProductが作られる反応で、それをスピードアップ�
 - sequester 隔離する
 - nucleophilic 求核（Organic Chemistry Resource参照）
 - steric 立体構造の、原子配列の
+- chelator 特定のcofactorに結合する還元剤
 
 ## cofactor
 
