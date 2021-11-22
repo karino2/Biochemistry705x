@@ -38,7 +38,7 @@ Hidrolaseは官能基を水へ移動するもの。
 ちなみにプロテアーゼは「ぷろてぃえーす」っぽく聞こえる。
 
 膵臓が分泌する。
-牛のChymotripsinは入手も容易だったのでよく研究されている。
+牛の[Chymotrypsin](Chymotrypsin.md)は入手も容易だったのでよく研究されている。
 
 芳香族アミノ酸だけをカットする（F, Y, W）。特定のsubstrateだけに反応する性質をsubstrate specificityと言う。
 
