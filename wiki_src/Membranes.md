@@ -62,6 +62,8 @@ NH3+はアミド結合で脂肪酸をつける事が出来、OH基にはリン�
 2. platelet plug (platelet：血小板)
 3. Ca2+、plateletがfibrin blood clotを形成（メッシュ）
 
+plugはこの場合は栓とか詰め物という意味か。
+
 ### Fibrinの形成
 
 血液にはFibrinのzymogenが既にある。これをFibrinogenと呼ぶ。
@@ -80,3 +82,24 @@ NH3+はアミド結合で脂肪酸をつける事が出来、OH基にはリン�
 これらがそれぞれジスルフィド結合でつながった構造をしている。
 
 thrombinは２つのAと２つのBを切り離す。そしてβとγにあるホールに、この切り離されたknobがつながってポリマーを形成する。
+
+### メッシュの形成
+
+thrombinはspecificity pocketにAsp（アニオン）を持つ。カットするのはArgのあとにGがあるケース。
+
+α鎖はRGPRとなっている所で切り、β鎖はRGHRとなっている所で切る。
+つまりαのノブはGPRに、βのノブはGHRとなる。
+
+まずαのノブがγのホールとつながり、protofibrilという層を形成する。
+この層のβのノブが隣の層のβのホールにつながる事でメッシュが形成される。
+
+### thrombinの制御
+
+必要な時だけactiveになって欲しい。
+普段はprothrombinというzymogenとして存在して非活性。
+
+thrombinが活動するメカニズムを解明する為のヒントとして、以下の３つがある。
+
+1. 凝固にはCa2+が必要
+2. 凝固には細胞膜、つまりactivated platelets（血小板）が必要
+3. thrombinはmodular domainを含む
