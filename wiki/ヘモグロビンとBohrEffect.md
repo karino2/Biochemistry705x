@@ -72,3 +72,7 @@ R-stateでは穴が小さすぎて2,3-BPGが入れないのでこの安定化は
 ### Problem Set
 
 - erythrocytosis 赤血球増加症
+
+## 前
+
+[ヘモグロビンとAllostery](ヘモグロビンとAllostery.md)

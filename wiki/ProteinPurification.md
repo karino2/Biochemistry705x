@@ -180,6 +180,8 @@ PngNoteの方に表を書いたのでそちらを参照。＞[PngNote、16ペー
 
 ジスルフィド結合をバラす為にreducing agentsとしてβ-mercaptoethanolを加える。
 
+[SdsPage](SdsPage.md)
+
 **IEF**
 
 pHの違いで電荷が変わるのを利用して分離、pIがタンパク質ごとに違う事を利用。

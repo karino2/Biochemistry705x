@@ -39,6 +39,12 @@ micellっぽい構造を作ろうとすると、liposomeになる。
 
 中にアルキル基をすべて含めるほどの領域が作れないから。
 
+リン脂質の構成要素ごとの名前。polarヘッドがcholineの場合
+
+- phosphatidylcholine （全体）
+   - phosphatic acid (リン酸基まで）
+       - diacylglycerol (グリセロールまで、つまりリン酸基の手前まで）
+
 ### Sphingolipids
 
 - zwitterion 両性イオン（+と-の両方を含んだ分子）
@@ -54,52 +60,6 @@ PtdCholine、PtdEthanolAmine、PtdSerineなど。
 
 NH3+はアミド結合で脂肪酸をつける事が出来、OH基にはリン酸を介したpolar headや糖などをつける事が出来る。
 
-## Blood clotting（血液凝固）
+## 次
 
-- intact 損傷を受けていない、完全のままの
-
-1. vessel spasm
-2. platelet plug (platelet：血小板)
-3. Ca2+、plateletがfibrin blood clotを形成（メッシュ）
-
-plugはこの場合は栓とか詰め物という意味か。
-
-### Fibrinの形成
-
-血液にはFibrinのzymogenが既にある。これをFibrinogenと呼ぶ。
-
-これを切断してfibrinポリマーを作り上げる。
-この切断をする酵素はserine proteaseの一種でthrombinと呼ばれる。
-
-### fibrinogen
-
-大きな構造で340kDa。monomeric subunit（って何？）として以下から構成される。
-
-- 2 Aα
-- 2 Bβ
-- 2γ
-
-これらがそれぞれジスルフィド結合でつながった構造をしている。
-
-thrombinは２つのAと２つのBを切り離す。そしてβとγにあるホールに、この切り離されたknobがつながってポリマーを形成する。
-
-### メッシュの形成
-
-thrombinはspecificity pocketにAsp（アニオン）を持つ。カットするのはArgのあとにGがあるケース。
-
-α鎖はRGPRとなっている所で切り、β鎖はRGHRとなっている所で切る。
-つまりαのノブはGPRに、βのノブはGHRとなる。
-
-まずαのノブがγのホールとつながり、protofibrilという層を形成する。
-この層のβのノブが隣の層のβのホールにつながる事でメッシュが形成される。
-
-### thrombinの制御
-
-必要な時だけactiveになって欲しい。
-普段はprothrombinというzymogenとして存在して非活性。
-
-thrombinが活動するメカニズムを解明する為のヒントとして、以下の３つがある。
-
-1. 凝固にはCa2+が必要
-2. 凝固には細胞膜、つまりactivated platelets（血小板）が必要
-3. thrombinはmodular domainを含む
+[BloodClotting](BloodClotting.md)

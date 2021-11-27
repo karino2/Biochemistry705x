@@ -101,3 +101,7 @@ Ser-195がカルボニルと結合すると、O-ができる。これが、Gly-1
 この構造をoxyanion holeと呼ぶ。
 
 なお、このOxyanion Holeは前駆体の状態では形成されない。これがChymotrypsinogen（zymogen）が非活性な理由。
+
+## 次
+
+[触媒としての酵素](触媒としての酵素.md)
