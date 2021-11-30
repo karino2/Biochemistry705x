@@ -18,7 +18,7 @@
 
 ## Michaelis-Mentenの方程式
 
-Sの濃度とPの生成の初速v0の関係式。
+Sの濃度とPの生成の初速v0の関係式。[MichaelisMentenの方程式](MichaelisMentenの方程式.md)
 
 ### 導出
 
