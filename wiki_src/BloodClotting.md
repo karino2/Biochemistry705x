@@ -99,12 +99,14 @@ XからXaには、Extrinsic pathwayとintrinsic pathwayがある。extrinsic pat
 
 ### Glaドメイン
 
+なぜprothrombinからthrombinへの反応でCa2+が必要なのか？は、Glaドメインが関わっている。
+
 Glaドメインの名前は、酪農家がアルファルファの代わりにクローバーを牛に食べさせたら出血死してしまったのを大学に持ち込んで発見された経緯かららしい。
 
 反応が複雑過ぎるのでハンドアウト参照。
 ケトン２つでquinoneと呼ぶらしい（ビタミンK quinone）。
 
-ビタミンKがgultamateをγ-carboxygultamateにする反応があり、これはEDTAと似た構造でCa2+を捕捉する。
+ビタミンKがgultamateをγ-carboxygultamateにする反応があり、これは前述（「凝固にはCa2+が必要」）のEDTAと似た構造でCa2+を捕捉する。
 クローバーに含まれるwarfarinとかがこの反応を遮断する。
 
 Glaドメインはgultamateが10個ほどあり、それがすべてγ-carboxygultamateになっているらしい。
@@ -115,7 +117,7 @@ Glaドメインはgultamateが10個ほどあり、それがすべてγ-carboxygu
 ### prothrombinからthrombinへ、実際のメカニズム
 
 1. GlaドメインがmembraneのCa2+にくっつき、一部がmembraneに刺さる
-   - activateされた血小板のmembraneはserineを豊富に含み、Ca2+と結合している
+   - activateされた血小板のmembraneはserineを豊富に含み、Ca2+と結合している（非activeな時はphosphatidylserineはinnerにしか存在せす、activateされるとouterに存在するようになって外部にexposeされる）
    - GlaドメインはF, L, Vのアミノ酸を含む部分があり、これらhydrophobicなアミノ酸がCa2+で並びが変わってmembraneに突き刺さる
 2. Vaもmembrane表面にくっついている
    - これが２つのkringleドメインにくっつく

@@ -60,6 +60,10 @@ PtdCholine、PtdEthanolAmine、PtdSerineなど。
 
 NH3+はアミド結合で脂肪酸をつける事が出来、OH基にはリン酸を介したpolar headや糖などをつける事が出来る。
 
+### Problem Set
+
+- vesicle 小嚢（リポソームのようなものを合成する時に出来る奴）
+
 ## 次
 
 [[BloodClotting]]
