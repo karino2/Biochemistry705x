@@ -3,6 +3,10 @@ edXのBiochemistryのコース。
 
 - [BiochemistryのPngNote](https://karino2.github.io/ImageGallery/Biochemistry705x.html)
 
+## 雑多なメモ
+
+- [生理学的条件](生理学的条件.md)
+
 ## Unit: バッファとアミノ酸
 
 - [pHとバッファ](pHとバッファ.md)
@@ -51,6 +55,3 @@ pH計算の問題は一問一問はどうという事が無くてもこれだけ
 
 - [SignalTransduction](SignalTransduction.md)
 
-## 雑多なメモ
-
-- [生理学的条件](生理学的条件.md)
