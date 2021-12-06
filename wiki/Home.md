@@ -3,22 +3,10 @@ edXのBiochemistryのコース。
 
 - [BiochemistryのPngNote](https://karino2.github.io/ImageGallery/Biochemistry705x.html)
 
-## 雑多なメモ
-
-- [生理学的条件](生理学的条件.md)
-
 ## Unit: バッファとアミノ酸
 
 - [pHとバッファ](pHとバッファ.md)
 - [アミノ酸とタンパク質](アミノ酸とタンパク質.md)
-
-### ここまでの雑感
-
-1シーケンスが700xよりも長くて、とても一日では終わらない気がする。
-pH計算の問題は一問一問はどうという事が無くてもこれだけやるのは大変。
-
-全体的にUnit数も少ないし、1シーケンス1週間くらいのペースでやるものなのかもしれない。
-実際トップのページにも3-6 hours/weekで11 weeks予定となっている。1シーケンス1週間で少し遅い程度の進行度に思う。
 
 ## Unit: Protein Purification
 
@@ -81,7 +69,7 @@ ChymotrypsinとそのほかのSerineプロテアーゼ。Chymotrypsinは芳香�
 - fibrin ＜ fibrinogen ＜ thrombin ＜prothrombin
 - ローマ数字のIからXまでつけられた反応の連鎖
 
-prothrombinの構造と反応
+**prothrombinの構造と反応**
 
 - 4つのドメインによるモジュラー構造
 - GlaドメインとCa2+の結合（wafarinなどでγ-calboxygultamate化が防がれてこの結合を抑制出来る）
@@ -95,3 +83,9 @@ prothrombinの構造と反応
 
 - [SignalTransduction](SignalTransduction.md)
 
+RasやGsなどのGTPaseの仕組みと、epinephrineから始まるシグナルpathwayの話。
+
+## 雑多なメモ
+
+- [生理学的条件](生理学的条件.md)
+- [コースの感想](コースの感想.md)

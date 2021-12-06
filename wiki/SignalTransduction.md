@@ -1,5 +1,16 @@
 信号伝達なのか信号変換なのか和訳には悩むSignal Transduction。
 
+## ここで出てくる略称いろいろ
+
+ややこしいのでまとめておく。
+
+- GAP GTPaseの加水分解を助けるタンパク質、Argフィンガーを持つ
+- PKA プロテインキナーゼA
+- Gsプロテイン 肝臓のグルコース生成のpathwayで7-TMとadenyl cyclaseの間を仲介するG-proteinの一種
+- GPCR 7-TMをこうも呼ぶ。G-protein-coupled-receptorの略
+- GEF G-proteinのGDPをGTPと置き換えるもの。ここでは7-TMとEpiが結合したものの事。
+- PDE GsプロテインからcAMPを取り除く為にcAMPを加水分解する時に使われる酵素、phosphodiesteraseの略。
+
 ## Small GTPase（Small Gプロテイン）
 
 nucleotide-bindingでアロステリックなeffectorの例として、Small G proteinを見る。
