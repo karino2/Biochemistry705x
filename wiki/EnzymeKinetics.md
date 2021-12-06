@@ -134,3 +134,5 @@ T-stateに移行する物質をallosteric inhibitorと、R-stateに移行する�
 アセチルコリンはacetylcholinesteraseで分解される。これは[Chymosrypsin](Chymosrypsin.md)同様にSerをactive siteに持つ。
 
 Serと結合するinhibitorとしてDIPFを[Chymotrypsin](Chymotrypsin.md)で紹介したが、それと形の似たSARINやVXはこのSerと結合してacetylcholinesteraseのinhibitorとして振る舞う事で神経毒となる。
+
+DIPFはChymotrypsinのアクティブサイト、Ser-195を探すのに使われた（[PngNoteのp33](https://karino2.github.io/ImageGallery/Biochemistry705x.html#lg=1&slide=32)参照）

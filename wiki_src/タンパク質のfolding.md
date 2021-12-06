@@ -1,8 +1,14 @@
+## 前
+
+[[タンパク質の構造]]
+
+## foldingはprimary structureが決定する、Anfinsenのドグマ
+
 foldingはどのように行われるか？
 
 Anfinsenの実験により、primary structureがfoldingを決定する、という主張がなされた。(Anfinsenのドグマ)
 
-## Anfinsenの実験(1957)
+### Anfinsenの実験(1957)
 
 RNase Aというタンパク質のジスルフィド結合と水素結合を解いて伸ばして、その後またそれらの結合を復活させて、RNase Aの活動を測る実験。
 
@@ -23,7 +29,7 @@ denaturantsと呼ばれるreagentsを用いて、タンパク質をまずunfold�
 これらは水素結合と競合する事でタンパク質をunfoldする。
 
 実験としては8Mのureaを使ってunfoldした。
-さらにジスルフィド結合をほどく為にβ-mercaptoethanolを使う（[[ProteinPurification]]のSDS-PAGEでも使った）。
+さらにジスルフィド結合をほどく為にβ-mercaptoethanolを使う（[[ProteinPurification]]のSDS-PAGE（[[SdsPage]]）でも使った）。
 
 ### 尿素を透析して、Air oxidizeする
 
@@ -73,7 +79,3 @@ Hydrophobic forceは、水分子の水素結合によるエントロピーが、
 ## Problem Set
 
 - oligomerize 多量体化する（オリゴマーは比較的少数のモノマーが多量体化したもの）
-
-## 前
-
-[[タンパク質の構造]]

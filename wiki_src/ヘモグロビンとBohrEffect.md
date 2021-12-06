@@ -1,3 +1,7 @@
+## 前
+
+[[ヘモグロビンとAllostery]]
+
 ## Cooperativityを数学的に記述する（Hill方程式）
 
 P50の定義なども。
@@ -72,7 +76,3 @@ R-stateでは穴が小さすぎて2,3-BPGが入れないのでこの安定化は
 ### Problem Set
 
 - erythrocytosis 赤血球増加症
-
-## 前
-
-[[ヘモグロビンとAllostery]]

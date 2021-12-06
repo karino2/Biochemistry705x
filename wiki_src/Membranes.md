@@ -22,7 +22,7 @@
 - Phospholipids/Glycerolipids
 - Sphingolipids
 
-### Phospholipids/Clycerolipids
+### Phospholipids/Glycerolipids
 
 - ２つの脂肪酸 - 普通は飽和脂肪酸一つに不飽和脂肪酸一つ
 - グリセロール - Trior, Tri-arcohol

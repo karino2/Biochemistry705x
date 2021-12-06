@@ -1,6 +1,6 @@
 信号伝達なのか信号変換なのか和訳には悩むSignal Transduction。
 
-## Small GTPase（Small Gタンパク質）
+## Small GTPase（Small Gプロテイン）
 
 nucleotide-bindingでアロステリックなeffectorの例として、Small G proteinを見る。
 GTPを加水分解する。

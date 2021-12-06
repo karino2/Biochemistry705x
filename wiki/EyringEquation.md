@@ -1,3 +1,5 @@
+[チャンネル、トランスポーター、ポンプ](チャンネル、トランスポーター、ポンプ.md)の「実験でPermeabilityを計測する（トランスポーターのメカニズム）」や、[触媒としての酵素](触媒としての酵素.md)のTransition State Theoryより。
+
 Eyring's rate theory。
 反応のrateが、activation energyのΔGを使って、exp(-ΔG/RT)に比例する。
 

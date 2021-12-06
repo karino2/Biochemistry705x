@@ -22,33 +22,73 @@ pH計算の問題は一問一問はどうという事が無くてもこれだけ
 
 ## Unit: Protein Purification
 
-[ProteinPurification](ProteinPurification.md)
+- [ProteinPurification](ProteinPurification.md)  
+[SdsPage](SdsPage.md)や2D-ゲル電気泳動など。
 
 ## Unit: Protein Structure and Folding
 
-- [タンパク質の構造](タンパク質の構造.md)
-  - [タンパク質の一次構造の決定](タンパク質の一次構造の決定.md)
-  - [タンパク質の二次構造](タンパク質の二次構造.md)
-- [タンパク質のfolding](タンパク質のfolding.md)
+- [タンパク質の構造](タンパク質の構造.md)  
+αヘリックス、βシート、Myoglobinの構造など。
+  - [タンパク質の一次構造の決定](タンパク質の一次構造の決定.md)  
+Edman Degradation、Protein fingerprinting、MS/MSなど。
+  - [タンパク質の二次構造](タンパク質の二次構造.md)  
+ペプチド結合の周辺の角度、ファイとプサイの定義（Dihedral Angles）と、Ramchandranプロットによる許容される範囲。
+- [タンパク質のfolding](タンパク質のfolding.md)  
+Anfinsenの実験とmolten globuleモデル
 
 ## Unit: Hemoglobin
 
 - [ヘモグロビンとAllostery](ヘモグロビンとAllostery.md)
+  - ミオグロビン、ヘモグロビンの構造
+  - ヘモグロビンのRとS状態
+  - RとSの遷移の２つのモデル、KNFモデル（間の状態がある）とMWCモデル（all or nothing）
 - [ヘモグロビンとBohrEffect](ヘモグロビンとBohrEffect.md)
+   - O2の分圧とヘモグロビンの酸素との結合割合でグラフを書く
+   - Hill方程式とnの実験による決定（対数で線形化、このグラフをHillプロットと呼ぶ）
+   - pHの変化のメカニズム、2,3-BPGの影響など
 
 ## Unit: Enzymes Part1
 
-- [EnzymeChemistry](EnzymeChemistry.md)
+- [EnzymeChemistry](EnzymeChemistry.md)  
+ChymotrypsinとそのほかのSerineプロテアーゼ。Chymotrypsinは芳香族アミノ酸だけをカットするプロテアーゼ。
 - [触媒としての酵素](触媒としての酵素.md)
+   - Transition State TheoryでΔG++と反応速度の関係
+   - [TIM](TIM.md)
+   - Carbonic anhydrase、CO2を水に溶かす触媒。Hisのプロトンシャトルなど。
 
 ## Unit: Enzymes Part2
 
 - [EnzymeKinetics](EnzymeKinetics.md)
+  - Sの濃度とPの生成のプロット、Sが10%未満の範囲のvをv0と定義
+     - Sの濃度とPの生成の初速v0の関係式。[MichaelisMentenの方程式](MichaelisMentenの方程式.md)、K_Mというmichaelis constantの導入
+     - 対数化したプロットはLineweaver-Burk plotと呼ばれ、実験でK_MやV_MAXを決定するのに使う
+  - Enzyme Inhibitors、[アセチルコリン](アセチルコリン.md)と毒
 
 ## Unit: Membranes, Blood Clotting, Channels, Transporters, and Pumps
 
-- [Membranes](Membranes.md)
-- [BloodClotting](BloodClotting.md) 血液凝固
+血液凝固が複雑なのでサブセクションに分ける。
+
+### Membranes
+
+[Membranes](Membranes.md) 
+
+脂肪酸の表記、グリセロールではなくSphingosineをスキャフォルドに使うSphingolipidsなども。
+
+### 血液凝固
+
+[BloodClotting](BloodClotting.md)
+
+- fibrin ＜ fibrinogen ＜ thrombin ＜prothrombin
+- ローマ数字のIからXまでつけられた反応の連鎖
+
+prothrombinの構造と反応
+
+- 4つのドメインによるモジュラー構造
+- GlaドメインとCa2+の結合（wafarinなどでγ-calboxygultamate化が防がれてこの結合を抑制出来る）
+- membrane表面にCa2+が豊富にあれば、これにGlaドメインがくっつくので、Va, Xa, prothrombinなどが膜にくっつく
+
+### チャンネル、トランスポーター、ポンプ
+
 - [チャンネル、トランスポーター、ポンプ](チャンネル、トランスポーター、ポンプ.md)
 
 ## Unit: Signal Transduction
