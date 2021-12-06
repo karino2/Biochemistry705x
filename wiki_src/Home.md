@@ -38,7 +38,7 @@ Anfinsenの実験とmolten globuleモデル
 ## Unit: Enzymes Part1
 
 - [[EnzymeChemistry]]  
-ChymotrypsinとそのほかのSerineプロテアーゼ。Chymotrypsinは芳香族アミノ酸だけをカットするプロテアーゼ。
+[[Chymotrypsin]]とそのほかのSerineプロテアーゼ。Chymotrypsinは芳香族アミノ酸だけをカットするプロテアーゼ。
 - [[触媒としての酵素]]
    - Transition State TheoryでΔG++と反応速度の関係
    - [[TIM]]
